@@ -1,3 +1,3 @@
 # SelectTabs
-| ![Home](home.png) | ![Search](search.png) |
+| <img src ="home.png" width = 314> | <img src ="search.png" width = 314>  |
 |-------------------|----------------------|
